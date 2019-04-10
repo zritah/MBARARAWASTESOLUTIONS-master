@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ClassAppBIT2</string>
+    <string name="report_a_problem">REPORT A PROBLEM</string>
+    <string name="log_out">LOG OUT</string>
+    <string name="about_us">ABOUT US</string>
+    <string name="settings">SETTINGS</string>
+    <string name="send_report">send report</string>
 </resources>
